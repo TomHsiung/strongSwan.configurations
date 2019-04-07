@@ -1,5 +1,5 @@
 # strongSwan.configurations
-Basic strongSwan server end configuration for Apple devices.
+Basic strongSwan server end configurations for Apple devices.
 
 # Function
 Set up a client-server mode IPsec connection.
