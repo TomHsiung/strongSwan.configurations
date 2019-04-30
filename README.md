@@ -15,3 +15,6 @@ Refer the official website of storngSwan for more information.
 # Diffie-Hellman Groups
 |Diffie-Hellman Group Number|Diffie-Hellman Group Name|RFC|Predefined|
 |Group 1|:768-bit modulus MODP Group:|:RFC 7296:|Yes|
+| 表格      | 第一列     | 第二列     |
+| ---------- | :-----------:  | :-----------: |
+| 第一行     | 第一列     | 第二列     |
