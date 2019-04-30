@@ -11,3 +11,6 @@ Refer the official website of storngSwan for more information.
 1) ipsec.conf.roadwarrior file is the most simple configration for roadwarrior mode. 
 2) ipsec.conf.roadwarrior.certificate.mode is the configration for roadwarrior mode, but additionaly to authorize clients via certificates. 
 3) Other mode is to be update in future.
+
+|Diffie-Hellman Group Number|Diffie-Hellman Group Name|RFC|Predefined|
+| ------------- | ------------- | ------------- | ------------- |
