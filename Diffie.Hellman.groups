@@ -1,14 +1,23 @@
 |Diffie-Hellman Group Number|Diffie-Hellman Group Name|RFC|Predefined|
-| ------------- | ------------- | ------------- | ------------- |
-|Group 1|768-bit modulus MODP Group|RFC 7296|Yes|
-Group 2	1024-bit modulus MODP Group	RFC 7296	Yes
-Group 5	1536-bit modulus MODP Group	RFC 3526	Yes
-Group 14	2048-bit modulus MODP Group	RFC 3526	Yes
-Group 15	3072-bit modulus MODP Group	RFC 3526	No
-Group 16	4096-bit modulus MODP Group	RFC 3526	No
-Group 17	6144-bit modulus MODP Group	RFC 3526	No
-Group 18	8192-bit modulus MODP Group	RFC 3526	No
-Group 19	256-bit random Elliptic Curve Group	RFC 5903	Yes
-Group 20	384-bit random Elliptic Curve Group	RFC 5903	Yes
-Group 24	2048-bit MODP Group with
-256-bit Prime Order Subgroup	RFC 5114	No
+| ------ | ------------------------ | ------ | - |
+|Group 1 |768-bit modulus MODP Group|RFC 7296|Yes|
+| ------ | ------------------------ | ------ | - |
+|Group 2 |1024-bit modulus MODP Group|RFC 7296|Yes|
+| ------ | ------------------------- | ------ | -- |
+|Group 5 |1536-bit modulus MODP Group|RFC 3526|	Yes|
+| ------ | ------------------------- | ------ | -- |
+|Group 14|2048-bit modulus MODP Group|RFC 3526|	Yes|
+| ------ | ------------------------- | ------ | -- |
+|Group 15|3072-bit modulus MODP Group|RFC 3526|	No |
+| ------ | ------------------------- | ------ | -- |
+|Group 16|4096-bit modulus MODP Group|RFC 3526|	No |
+| ------ | ------------------------- | ------ | -- |
+|Group 17|6144-bit modulus MODP Group|RFC 3526|	No |
+| ------ | ------------------------- | ------ | -- |
+|Group 18|8192-bit modulus MODP Group|RFC 3526|	No |
+| ------ | --------------------------------- | ------ | -- |
+|Group 19|256-bit random Elliptic Curve Group|RFC 5903|	Yes|
+| ------ | --------------------------------- | ------ | -- |
+|Group 20|384-bit random Elliptic Curve Group|RFC 5903|	Yes|
+| ------ | --------------------------------------------------- | ------ | -- |
+|Group 24|2048-bit MODP Group with 256-bit Prime Order Subgroup|RFC 5114|	No |
