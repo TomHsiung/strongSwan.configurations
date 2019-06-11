@@ -34,6 +34,7 @@ Refer the official website of storngSwan for more information.
 |Group 18|8192-bit modulus MODP Group                          |RFC 3526|No |
 |Group 19|256-bit random Elliptic Curve Group                  |RFC 5903|Yes|
 |Group 20|384-bit random Elliptic Curve Group                  |RFC 5903|Yes|
+|Group 21|521-bit random Elliptic Curve Group                  |RFC 5903|Unknown|
 |Group 24|2048-bit MODP Group with 256-bit Prime Order Subgroup|RFC 5114|No |
 
 ```
