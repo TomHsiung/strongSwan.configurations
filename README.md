@@ -10,7 +10,9 @@ Refer the official website of storngSwan for more information.
 # Contents
 1) ipsec.conf.roadwarrior file is the most simple configration for roadwarrior mode. 
 2) ipsec.conf.roadwarrior.certificate.mode is the configration for roadwarrior mode, but additionaly to authorize clients via certificates. 
-3) Other mode is to be update in future.
+3) private.key.generation file is the syntax to create private keys for strongSwan. 
+4) public.key.generation file is the syntax to create public keys for strongSwan. 
+5) Other mode is to be update in future.
 
 # Diffie-Hellman Groups
 |Diffie-Hellman Group Number|Diffie-Hellman Group Name|RFC|Predefined|
