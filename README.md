@@ -14,6 +14,10 @@ Refer the official website of storngSwan for more information.
 4) public.key.generation file is the syntax to create public keys for strongSwan. 
 5) Other mode is to be update in future.
 
+# Notice
+1) Make sure the proper privileges of related files for security considerations. 
+2) Make appropriate modifications to the original code based on your needs.
+
 # Diffie-Hellman Groups
 |Diffie-Hellman Group Number|Diffie-Hellman Group Name|RFC|Predefined|
 | - | - | - | - |
