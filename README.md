@@ -29,8 +29,8 @@ Refer the official website of storngSwan for more information.
 
 # Supported RDN Types
 |Identifier|OID|Description|Example|
-|Defined by X.520 and also described in RFC 4519|
 | - | - | - | - |
+|1) Defined by X.520 and also described in RFC 4519|
 |CN|2.5.4.3|Common Name|vpn.strongswan.org or John Smith|
 |S|2.5.4.4|Surname|Smith|
 |SN|2.5.4.5|Serial Number|ZX52376|
@@ -51,4 +51,4 @@ Refer the official website of storngSwan for more information.
 |dnQualifier|2.5.4.46|DN Qualifier (e.g. a timestamp or serial number)|20190214115113Z or 51314E|
 |dmdName|2.5.4.54|DMD Name||
 |pseudonym|2.5.4.65|Pseudonym||
-|Originally defined by RFC 1274 now described in RFC 4519|
+|2) Originally defined by RFC 1274 now described in RFC 4519|
