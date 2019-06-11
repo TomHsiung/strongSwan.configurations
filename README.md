@@ -52,3 +52,11 @@ Refer the official website of storngSwan for more information.
 |dmdName|2.5.4.54|DMD Name||
 |pseudonym|2.5.4.65|Pseudonym||
 |2) Originally defined by RFC 1274 now described in RFC 4519|
+|UID|0.9.2342.19200300.100.1.1|User ID|jsmith|
+|DC|0.9.2342.19200300.100.1.25|Domain Component (label of a DNS domain name)|strongswan or org but not strongswan.org|
+|3) Defined by RFC 2798|
+|EN|employeeNumber|2.16.840.1.113730.3.1.3|Employee Number|42|
+|4) Defined in PKCS#9 and described in RFC 2985|
+|E email emailAddress|1.2.840.113549.1.9.1|Email Address (deprecated according to RFC 5280, use SAN instead)|alice@strongswan.org|
+|UN unstructuredName|1.2.840.113549.1.9.2|Unstructured Name||
+|UA unstructuredAddress|1.2.840.113549.1.9.8|Unstructured Address||
