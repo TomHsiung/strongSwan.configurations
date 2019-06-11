@@ -34,3 +34,19 @@ Refer the official website of storngSwan for more information.
 |S|2.5.4.4|Surname|Smith|
 |SN|2.5.4.5|Serial Number|ZX52376|
 |C|2.5.4.6|Country (ISO 3166 two-letter code)|CH|
+|L|2.5.4.7|Locality|Rapperswil|
+|ST|2.5.4.8|State or Province|St. Gallen|
+|street|2.5.4.9|Street Address|Oberseestrasse 10|
+|O|2.5.4.10|Organization|strongSwan Project|
+|OU|2.5.4.11|Organizational Unit|Research|
+|T|2.5.4.12|Title|Software Engineer|
+|D|2.5.4.13|Description|Main VPN gateway|
+|postalAddress|2.5.4.16|Postal Address|Oberseestrasse 10 8640 Rapperswil Switzerland|
+|postalCode|2.5.4.17|Postal Code|8640|
+|N|2.5.4.41|Name (should not be used directly)||
+|G|2.5.4.42|Given Name|John|
+|I|2.5.4.43|Initials|J. T.|
+|ID|2.5.4.45|Unique Identifier||
+|dnQualifier|2.5.4.46|DN Qualifier (e.g. a timestamp or serial number)|20190214115113Z or 51314E|
+|dmdName|2.5.4.54|DMD Name||
+|pseudonym|2.5.4.65|Pseudonym||
