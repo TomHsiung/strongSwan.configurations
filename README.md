@@ -33,7 +33,7 @@ Refer the official website of storngSwan for more information.
 |1) Defined by X.520 and also described in RFC 4519|
 |CN|2.5.4.3|Common Name|vpn.strongswan.org or John Smith|
 |S|2.5.4.4|Surname|Smith|
-|SN|2.5.4.5|Serial Number|ZX52376|
+|SN, serialNumber|2.5.4.5|Serial Number|ZX52376|
 |C|2.5.4.6|Country (ISO 3166 two-letter code)|CH|
 |L|2.5.4.7|Locality|Rapperswil|
 |ST|2.5.4.8|State or Province|St. Gallen|
@@ -57,6 +57,10 @@ Refer the official website of storngSwan for more information.
 |3) Defined by RFC 2798|
 |EN|employeeNumber|2.16.840.1.113730.3.1.3|Employee Number|42|
 |4) Defined in PKCS#9 and described in RFC 2985|
-|E email emailAddress|1.2.840.113549.1.9.1|Email Address (deprecated according to RFC 5280, use SAN instead)|alice@strongswan.org|
-|UN unstructuredName|1.2.840.113549.1.9.2|Unstructured Name||
-|UA unstructuredAddress|1.2.840.113549.1.9.8|Unstructured Address||
+|E, email, emailAddress|1.2.840.113549.1.9.1|Email Address (deprecated according to RFC 5280, use SAN instead)|alice@strongswan.org|
+|UN, unstructuredName|1.2.840.113549.1.9.2|Unstructured Name||
+|UA, unstructuredAddress|1.2.840.113549.1.9.8|Unstructured Address||
+|5) Defined by "Zertifikatsformate im Zertifizierungsbereich PKS II"|
+|ND|0.2.262.1.10.7.20|Name Distinguisher (Number incremented for equal CNs)||
+|6) Unknown origin (was added with FreeS/WAN 0.9.9)|
+|TCGID|1.3.6.1.4.1.1201.1.1.2.2.75|Siemens Trust Center Global ID||
