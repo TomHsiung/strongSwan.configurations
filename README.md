@@ -26,3 +26,11 @@ Refer the official website of storngSwan for more information.
 |Group 19|256-bit random Elliptic Curve Group                  |RFC 5903|Yes|
 |Group 20|384-bit random Elliptic Curve Group                  |RFC 5903|Yes|
 |Group 24|2048-bit MODP Group with 256-bit Prime Order Subgroup|RFC 5114|No |
+
+# Supported RDN Types
+|Identifier|OID|Description|Example|
+| - | - | - | - |
+|CN|2.5.4.3|Common Name|vpn.strongswan.org or John Smith|
+|S|2.5.4.4|Surname|Smith|
+|SN|2.5.4.5|Serial Number|ZX52376|
+|C|2.5.4.6|Country (ISO 3166 two-letter code)|CH|
