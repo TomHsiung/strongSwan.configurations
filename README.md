@@ -17,6 +17,7 @@ Refer the official website of storngSwan for more information.
 # Notice
 1) Make sure the proper privileges of related files for security considerations. 
 2) Make appropriate modifications to the original code based on your needs.
+3) To use the eap-tls authentication, the eap-tls plugin must be installed and enabled. To install and enable this plugin, run command `apt install libcharon-extra-plugins`.
 
 # Appendixes
 ```
