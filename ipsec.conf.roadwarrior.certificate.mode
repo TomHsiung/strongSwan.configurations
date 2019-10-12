@@ -44,6 +44,7 @@ conn connection-name
         esp=your-defined-cipher-suite-for-esp
         leftsendcert=always
         left=your-domain-name
+        leftauth=pubkey
         leftcert=cerfification-file-name-left
         leftid=@your-domain-name
         leftsubnet=0.0.0.0/0
