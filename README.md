@@ -12,7 +12,8 @@ Refer the official website of storngSwan for more information.
 2) ipsec.conf.roadwarrior.certificate.mode is the configration for roadwarrior mode, but additionaly to authorize clients via certificates. 
 3) private.key.generation file is the syntax to create private keys for strongSwan. 
 4) public.key.generation file is the syntax to create public keys for strongSwan. 
-5) Other mode is to be update in future.
+5) public.key.request file is the syntax to create a public key issueing request for strongSwan.
+6) Other mode is to be update in future.
 
 # Notice
 1) Make sure the proper privileges of related files for security considerations. 
