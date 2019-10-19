@@ -8,12 +8,13 @@ Set up a client-server mode IPsec connection.
 Refer the official website of storngSwan for more information.
 
 # Contents
-1) ipsec.conf.roadwarrior file is the most simple configration for roadwarrior mode. 
-2) ipsec.conf.roadwarrior.certificate.mode is the configration for roadwarrior mode, but additionaly to authorize clients via certificates. 
-3) private.key.generation file is the syntax to create private keys for strongSwan. 
-4) public.key.generation file is the syntax to create public keys for strongSwan. 
-5) public.key.request file is the syntax to create a public key issueing request for strongSwan.
-6) Other mode is to be update in future.
+1) `ipsec.conf.roadwarrior` file is the most simple configration for roadwarrior mode. 
+2) `ipsec.conf.roadwarrior.certificate.mode` is the configration for roadwarrior mode, but additionaly to authorize clients via certificates. 
+3) `ipsec.conf.site2site.certificate.mode` is the configuration for site-to-site (gateway-to-gateway) IPsec mode, with the authernticatio based on certificates.
+4) `private.key.generation` file is the syntax to create private keys for strongSwan. 
+5) `public.key.generation` file is the syntax to create public keys for strongSwan. 
+6) `public.key.request` file is the syntax to create a public key issueing request for strongSwan.
+7) Other mode is to be update in future.
 
 # Notice
 1) Make sure the proper privileges of related files for security considerations. 
