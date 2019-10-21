@@ -48,6 +48,7 @@ conn connection-name
         leftcert=cerfification-file-name-left
         leftid=@your-domain-name
         leftsubnet=0.0.0.0/0
+        leftfirewall=yes
         right=%any
         rightauth=eap-tls
         eap_identity=%identity
