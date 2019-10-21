@@ -31,7 +31,7 @@ config setup
 conn %default
         keyexchange=ikev2
 
-conn site2site
+conn connection-name
         auto=start
         reauth=no
         compress=no
