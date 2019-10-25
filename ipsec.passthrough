@@ -1,0 +1,8 @@
+# To exclude some traffics from IPsec tunnel, especially in site-to-site mode
+conn passthrough-policy
+        left=127.0.0.1
+        leftsubnet=subnet1,subnet2,...
+        rightsubnet=subnet2,subnet1,...
+        type=passthrough
+        authby=never
+        auto=route
