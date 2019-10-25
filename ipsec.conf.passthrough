@@ -1,4 +1,8 @@
 # To exclude some traffics from IPsec tunnel, especially in site-to-site mode
+
+# Similar functions could be achieved via strongSwan bypass-lan.conf
+
+# passthrough policy
 conn passthrough-policy
         left=127.0.0.1
         leftsubnet=subnet1,subnet2,...
