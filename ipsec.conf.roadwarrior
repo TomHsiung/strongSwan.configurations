@@ -42,6 +42,9 @@ conn connection-name
         dpddelay=300s
         ike=your-defined-cipher-suite-for-ike
         esp=your-defined-cipher-suite-for-esp
+        keyingtries=0
+        ikelifetime=3h
+        lifetime=24h
         leftsendcert=always
         left=your-domain-name
         leftcert=cerfification-file-name
