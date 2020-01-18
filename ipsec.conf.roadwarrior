@@ -34,6 +34,7 @@ conn %default
 conn connection-name
         auto=add
         reauth=no
+        rekey=yes
         compress=no
         type=tunnel
         fragmentation=yes
