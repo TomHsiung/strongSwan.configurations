@@ -58,4 +58,5 @@ conn connection-name
         eap_identity=%identity
         rightcert=certification-file-name-right
         rightsourceip=x.x.x.x/24
+# rightid in roadwarrior mode must not be equal to the CN of client certification. Use different client certification CN and roadwarrior rightid.
         rightid=@your-client-id-name
