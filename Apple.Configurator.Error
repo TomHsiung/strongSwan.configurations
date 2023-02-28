@@ -1,0 +1,8 @@
+# Error: Profile installation failed. The 'VPN Service' playload could not be installed. The VPN service could not be created.
+# Fix: search and remove the following codes in the profile file.
+
+<key>DNS</key>
+<dict>
+    <key>SupplementalMatchDomainsNoSearch</key>
+    <integer>0</integer>
+</dict>
