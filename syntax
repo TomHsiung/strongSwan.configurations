@@ -1,7 +1,10 @@
-# Start an IPSec connection
+# Start/Stop an IPSec connection
 ipsec up connectionName
+ipsec down connectionName
 
-# Restart IPSec service
+# Start/Stop/Restart IPSec service
+ipsec start
+ipsec stop
 ipsec restart
 
 # Show detail information abut IPSec connections
