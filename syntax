@@ -1,0 +1,14 @@
+# Start an IPSec connection
+ipsec up connectionName
+
+# Restart IPSec service
+ipsec restart
+
+# Show detail information abut IPSec connections
+ipsec statusall
+
+# Show all loaden CAs
+ipsec listcacerts
+
+# Show all loaden certificates
+ipsec listcerts
