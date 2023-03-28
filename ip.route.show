@@ -1,0 +1,2 @@
+# Show the IPsec routing table
+ip route show table 220
