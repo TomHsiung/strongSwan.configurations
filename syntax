@@ -15,3 +15,6 @@ ipsec listcacerts
 
 # Show all loaden certificates
 ipsec listcerts
+
+# Reload ipsec.conf settings
+ipsec reload
